@@ -110,6 +110,10 @@ button {
 
 
 
+.logo-in-head {
+    border-radius: 50%;
+}
+
 
 
 .logo {
@@ -117,6 +121,7 @@ button {
     margin-right: 30px;
     margin-left: 20px;
     animation: fade-in-from-top 0.5s;
+    border-radius: 50%;
 }
 
 .dd-toggle {
